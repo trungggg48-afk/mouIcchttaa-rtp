@@ -1,0 +1,13 @@
+name: moulcchttaa-rtp
+version: 1.0
+main: me.trungggg48.rtp.MoulcchttaaRTP
+api-version: '1.21'
+author: trungggg48
+description: Plugin RTP riêng
+commands:
+  rtpq:
+    description: Teleport ngẫu nhiên
+    usage: /rtpq
+permissions:
+  moulcchttaa.rtp:
+    default: true
